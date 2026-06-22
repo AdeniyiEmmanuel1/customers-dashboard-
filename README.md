@@ -6,8 +6,10 @@ An end-to-end Tableau analytics project featuring two fully interactive, navigat
 
 ## **Dashboard Previews**
 
-[Add this line to display the Sales Dashboard image: ![Sales Dashboard](Sales_Dashboard.png)]
-[Add this line to display the Customers Dashboard image: ![Customers Dashboard](Customer_Dashboard.png)]
+https://github.com/AdeniyiEmmanuel1/customers-dashboard-/blob/main/Sales%20Dashboard.png
+
+
+
 ------------------------------------------------------------------------
 
 ## **Project Overview**
