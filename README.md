@@ -10,7 +10,7 @@ An end-to-end Tableau analytics project featuring two fully interactive, navigat
 
 ---------------------------------------------------------------------
 
-[Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/AdeniyiEmmanuel1/customers-dashboard-/blob/main/Customer%20Dashboard.png)
 
 
 
@@ -136,7 +136,10 @@ Both dashboards include navigation icon buttons in the top right corner. Clickin
 This project was built following the Tableau Ultimate Course with the mentorship of baraa. The 4-step dashboard design process, container mockup methodology, and project structure are credited to that course.
 
 Author
-Created by [Your Name]
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+
+Created by Aden Emmanuel
+
+LinkedIn: https://www.linkedin.com/in/aden-emmanuel-117440142/?skipRedirect=true
+
+
 
