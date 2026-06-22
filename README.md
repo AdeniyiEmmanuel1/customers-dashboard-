@@ -6,11 +6,11 @@ An end-to-end Tableau analytics project featuring two fully interactive, navigat
 
 ## **Dashboard Previews**
 
-[Dashboard Screenshot]https://github.com/AdeniyiEmmanuel1/customers-dashboard-/blob/main/Sales%20Dashboard.png
+![Dashboard Screenshot](https://github.com/AdeniyiEmmanuel1/customers-dashboard-/blob/main/Sales%20Dashboard.png)
 
 ---------------------------------------------------------------------
 
-![Dashboard Screenshot]
+[Dashboard Screenshot]
 
 
 
